@@ -1,3 +1,11 @@
+![Spotify Login](/src/spotify_login.png)
+
+![Spotify User Authenitication](/src/spotify_auth.png)
+
+![Spotify Player](/src/spotify_player.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
